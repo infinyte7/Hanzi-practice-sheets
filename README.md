@@ -3,7 +3,7 @@ Hanzi practice sheets http://rtega.be/chmn
 
 http://rtega.be/chmn/index.php?subpage=67
 
-<embed src="https://github.com/infinyte7/Hanzi-practice-sheets/raw/master/hsk1-smallest.pdf" width="800px" height="800px" />
+![image](https://raw.githubusercontent.com/infinyte7/Hanzi-practice-sheets/master/image.PNG)
 
 # License
 2010-2019 © Reinaert Albrecht
