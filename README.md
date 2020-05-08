@@ -7,4 +7,4 @@ http://rtega.be/chmn/index.php?subpage=67
 
 # License
 2010-2019 © Reinaert Albrecht
-Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+<br>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
